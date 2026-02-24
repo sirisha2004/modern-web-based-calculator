@@ -21,7 +21,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - CSS  
 - JavaScript
 
-## project live link
+## 💻 Project live link
 https://modern-web-calculator.netlify.app/
 
 ## Logo
